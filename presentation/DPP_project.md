@@ -1,7 +1,7 @@
 Predicting Lottery Payouts
 ========================================================
 author: Stephen Penrice
-date: 2016-01-17
+date: 2016-01-18
 
 Introduction
 ========================================================
@@ -34,5 +34,5 @@ References
 ========================================================
 
 - Code for the Shiny app and for this presentation can be found on <a href = 'https://github.com/lotterdata/DPP_project'>github</a>.
-- This app is an extension of a project I did at NYC Data Science Academy which is documented in this <a href = 'http://blog.nycdatascience.com/students-work/lucky-numbers-2/'>blog post</a> and 
+- This app is an extension of a project I did at NYC Data Science Academy which is documented in this <a href = 'https://rpubs.com/lotterdata/133298'>blog post</a> and 
 this <a href = 'https://www.youtube.com/watch?v=vNZRSYWOJBE'>video</a>.
